@@ -1,1 +1,1 @@
-# suffix-trees-python-GaiaAndresen
+## Week 6
